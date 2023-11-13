@@ -1,4 +1,3 @@
-pip install --upgrade pip
 plotly==5.0.0
 
 
