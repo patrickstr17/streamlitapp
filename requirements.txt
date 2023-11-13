@@ -1,1 +1,5 @@
-pip3 install plotly
+
+plotly==5.0.0
+streamlit==1.18.0
+
+
