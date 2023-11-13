@@ -4,7 +4,7 @@ game sales data.
 Users can explore different video games organized by publisher,
 explore game publications over the decades, and get video games summaries. 
 """
-pip3 install plotly
+
 
 import streamlit as st
 import pandas as pd
